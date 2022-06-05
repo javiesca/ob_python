@@ -92,7 +92,7 @@ print (anonima3(1,2,3))
 #------MAS EJEMPLOS--------------------------------
 def sumador(**kwargs):
     inicial = kwargs['inicial'] if 'inicial' in kwargs else 0 #Si no damos valor a 'inicial', 'inicial' vale 0
-    final = kwargs['final'] if 'final' in kwargs else 0 #Si no damos valor a 'final', 'inicial' vale 0
+    final = kwargs['final'] if 'final' in kwargs else 0 #Si no damos valor a 'final', 'final' vale 0
     resultado = 0
     for i in range(inicial, final+1): #Suma los valores que hay entre inicial y final a la variable resultado
         resultado +=i
