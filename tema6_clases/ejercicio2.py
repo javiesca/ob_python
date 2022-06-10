@@ -18,12 +18,12 @@ class Alumno():
         else:
             estado = "SUSPENSO"
 
-        txt = "Nombre: {0} y tu calificacion es: {1}. Has {2}"
+        txt = "Nombre: {0} \nCalificacion: {1} \n{2}"
         return txt.format(self.nombre, self.nota, estado)
         
 
 a = Alumno()
 a.ponNombre("Javi")
-a.ponNota(3)
+a.ponNota(5)
 
 print(a)
