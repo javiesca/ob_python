@@ -11,18 +11,19 @@ class Alumno():
     def ponNombre(self, nombre):
         self.nombre = nombre
 
-    def imprime(self):
-        print("Tu nombre es: ", self.nombre)
-        print("Tu nota de examen es: ", self.nota)
-        if self.nota >= 5:
-            print("Has aprobado")
+    def __str__(self):
+        estado = ""
+        if(self.nota >= 5):
+            estado = "APROBADO"
         else:
-            print("Has suspendo")
+            estado = "SUSPENSO"
 
-
+        txt = "Nombre: {0} y tu calificacion es: {1}. Has {2}"
+        return txt.format(self.nombre, self.nota, estado)
+        
 
 a = Alumno()
 a.ponNombre("Javi")
-a.ponNota(6)
+a.ponNota(3)
 
-a.imprime()
+print(a)
