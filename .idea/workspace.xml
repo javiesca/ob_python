@@ -4,40 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b11a715b-246a-43bf-8999-ce98c3fa7fe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tema8_ES/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tema8_ES/repr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b11a715b-246a-43bf-8999-ce98c3fa7fe1" name="Changes" comment="Python OpenBootcam">
+      <change afterPath="$PROJECT_DIR$/tema8_ES/ejercicioEscritura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/ejercicioLectura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/ficheros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/metodosStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/miFichero.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/miFichero2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/serializar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git" beforeDir="false" afterPath="$PROJECT_DIR$/git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema4/ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/ejercicio4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema4/ejercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/ejercicio5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema4/ejercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/ejercicio6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema5_Funciones/ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema5_Funciones/ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/ejercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema5_Funciones/ejercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/ejercicio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema5_Funciones/funciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/funciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema6_clases/clases.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/clases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema6_clases/clasesII.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/clasesII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema6_clases/clasesIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/clasesIII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema6_clases/ejemploComposicion.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/ejemploComposicion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema6_clases/ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema6_clases/ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/ejercicio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/ejercicio1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/ejercicio1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/ejercicio1/operacionesBasicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/ejercicio1/operacionesBasicas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/ejercicio2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/ejercicio2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/operaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/operaciones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/restador/resta.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/restador/resta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/suma.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/suma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/sumador/suma.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/sumador/suma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema7_modulos/paquetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paquetes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema8_ES/repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema8_ES/repr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +50,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.repr">
-    <configuration name="clases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ejercicioEscritura">
+    <configuration name="ejercicioEscritura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema6_clases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema8_ES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema6_clases/clases.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/ejercicioEscritura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicioLectura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema8_ES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema4/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/ejercicioLectura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ficheros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema7_modulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema8_ES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema7_modulos/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/ficheros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="metodosStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/metodosStrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ejercicioEscritura" />
+        <item itemvalue="Python.ejercicioLectura " />
+        <item itemvalue="Python.ficheros" />
+        <item itemvalue="Python.metodosStrings" />
         <item itemvalue="Python.repr" />
-        <item itemvalue="Python.print" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.clases" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +196,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654188250051</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python OpenBootcam">
+      <created>1655223442073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655223442073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,5 +219,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Python OpenBootcam" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python OpenBootcam" />
   </component>
 </project>
