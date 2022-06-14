@@ -1,9 +1,9 @@
 
 class Alumno():
-    
-    def __init__(self):
-        self.nombre = ""
-        self.nota = None
+
+    def __init__(self,nombre,nota):
+        self.nombre = nombre
+        self.nota = nota
 
     def ponNota(self, nota):
         self.nota = nota
@@ -22,8 +22,11 @@ class Alumno():
         return txt.format(self.nombre, self.nota, estado)
         
 
-a = Alumno()
-a.ponNombre("Javi")
-a.ponNota(5)
+j = Alumno("Javi", 7)
 
-print(a)
+print(j)
+
+j.nombre = "María"
+j.nota = 9
+
+print(j)

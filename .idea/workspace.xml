@@ -5,13 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11a715b-246a-43bf-8999-ce98c3fa7fe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tema6_clases/clases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema8_ES/repr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git" beforeDir="false" afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema4/ejercicio4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/ejercicio4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema4/ejercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/ejercicio5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema4/ejercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/ejercicio6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema5_Funciones/ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/ejercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema5_Funciones/ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/ejercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema5_Funciones/ejercicio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/ejercicio3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema5_Funciones/funciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema5_Funciones/funciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema6_clases/clases.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/clases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema6_clases/clasesII.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/clasesII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema6_clases/clasesIII.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/clasesIII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema6_clases/ejemploComposicion.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/ejemploComposicion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema6_clases/ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/ejercicio1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema6_clases/ejercicio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema6_clases/ejercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/ejercicio1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/ejercicio1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/ejercicio1/operacionesBasicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/ejercicio1/operacionesBasicas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/ejercicio2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/ejercicio2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/operaciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/operaciones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/restador/resta.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/restador/resta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/suma.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/suma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/sumador/suma.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paqueteOperaciones/sumador/suma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tema7_modulos/paquetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema7_modulos/paquetes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,11 +70,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/javi/Library/CloudStorage/OneDrive-ConsejeríadeEducación/Open Bootcamp/Python",
+    "last_opened_file_path": "/Volumes/HDD/Mi Nube/OpenBootcamp/Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.repr">
     <configuration name="clases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,48 +88,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema6_clases/clases.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ejercicio4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema4/ejercicio4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ejercicio6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema4/ejercicio6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,6 +117,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema7_modulos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema7_modulos/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,12 +159,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema8_ES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema8_ES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema8_ES/repr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.repr" />
+        <item itemvalue="Python.print" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.clases" />
-        <item itemvalue="Python.ejercicio6" />
-        <item itemvalue="Python.ejercicio4" />
       </list>
     </recent_temporary>
   </component>
