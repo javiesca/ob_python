@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11a715b-246a-43bf-8999-ce98c3fa7fe1" name="Changes" comment="Python OpenBootcamp">
-      <change afterPath="$PROJECT_DIR$/tema9_bibliotecas/ejercicio2/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/ejercicio1/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/ejercicio2/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/gui_eventos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/gui_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/gui_grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/gui_pack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema10_gui/gui_widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema11_bd/ejercicio1/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema11_bd/ejercicio1/miBasedeDatos.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema11_bd/inserta_usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema11_bd/verifica_credenciales.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +54,28 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ejercicio2">
+  <component name="RunManager" selected="Python.ejercicio1 (1)">
+    <configuration name="ejercicio1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema11_bd/ejercicio1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema11_bd/ejercicio1/ejercicio1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ejercicio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema9_bibliotecas/ejercicio1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema10_gui/ejercicio1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema9_bibliotecas/ejercicio1/ejercicio1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema10_gui/ejercicio1/ejercicio1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema9_bibliotecas/ejercicio2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema10_gui/ejercicio2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema9_bibliotecas/ejercicio2/ejercicio2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema10_gui/ejercicio2/ejercicio2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inserta_usuario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,32 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema9_bibliotecas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema11_bd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema9_bibliotecas/input.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="juegoAdivinaNumero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema9_bibliotecas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema9_bibliotecas/juegoAdivinaNumero.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema11_bd/inserta_usuario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="verifica_credenciales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema9_bibliotecas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema11_bd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema9_bibliotecas/numeros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema11_bd/verifica_credenciales.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ejercicio1 (1)" />
+        <item itemvalue="Python.inserta_usuario" />
+        <item itemvalue="Python.verifica_credenciales" />
         <item itemvalue="Python.ejercicio2" />
         <item itemvalue="Python.ejercicio1" />
-        <item itemvalue="Python.juegoAdivinaNumero" />
-        <item itemvalue="Python.input" />
-        <item itemvalue="Python.numeros" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655404222179</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Python OpenBootcamp">
+      <created>1655503340523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655503340523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
