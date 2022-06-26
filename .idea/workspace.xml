@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b11a715b-246a-43bf-8999-ce98c3fa7fe1" name="Changes" comment="Python OpenBootcamp">
+      <change afterPath="$PROJECT_DIR$/tema12_django/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/migrations/0002_author_book_bookinstance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/templates/base_generic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/catalog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/miproyecto/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/miproyecto/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/miproyecto/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/miproyecto/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema12_django/miproyecto/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema4/pruebas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema11_bd/ejercicio1/ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tema11_bd/ejercicio1/ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tema11_bd/ejercicio1/miBasedeDatos.db" beforeDir="false" afterPath="$PROJECT_DIR$/tema11_bd/ejercicio1/miBasedeDatos.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -35,16 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/HDD/Mi Nube/OpenBootcamp/Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Volumes/HDD/Mi Nube/OpenBootcamp/Python",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
-  <component name="RunManager" selected="Python.ejercicio1 (1)">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tema12_django/catalog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.pruebas">
     <configuration name="ejercicio1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,48 +85,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema11_bd/ejercicio1/ejercicio1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ejercicio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema10_gui/ejercicio1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema10_gui/ejercicio1/ejercicio1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ejercicio2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema10_gui/ejercicio2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema10_gui/ejercicio2/ejercicio2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,6 +135,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pruebas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema4/pruebas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tema12_django/miproyecto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tema12_django/miproyecto/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="verifica_credenciales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pruebas" />
+        <item itemvalue="Python.settings" />
         <item itemvalue="Python.ejercicio1 (1)" />
         <item itemvalue="Python.inserta_usuario" />
         <item itemvalue="Python.verifica_credenciales" />
-        <item itemvalue="Python.ejercicio2" />
-        <item itemvalue="Python.ejercicio1" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655988940658</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Python OpenBootcamp">
+      <created>1655989814898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655989814898</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,16 +306,5 @@
     <MESSAGE value="Python OpenBootcam" />
     <MESSAGE value="Python OpenBootcamp" />
     <option name="LAST_COMMIT_MESSAGE" value="Python OpenBootcamp" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tema11_bd/ejercicio1/ejercicio1.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
